@@ -15,11 +15,11 @@ As a web developer fresh out of higher education, I've dedicated my efforts to s
 
 ## Getting Started
 
-To get started with the Resume/CV Builder, simply visit [link-to-site] and follow the on-screen instructions. You'll be guided through the process of creating your personalized resume or CV.
+To get started with the Resume/CV Builder, simply visit https://buildresumewithking.netlify.app and follow the on-screen instructions. You'll be guided through the process of creating your personalized resume or CV.
 
 ## Video Tutorial
 
-To better understand how to use the Resume/CV Builder, check out our video tutorial [here](link-to-video). This video provides a step-by-step guide on navigating the platform and utilizing its features effectively.
+To better understand how to use the Resume/CV Builder, check out our video tutorial //linkcomingsoon. This video provides a step-by-step guide on navigating the platform and utilizing its features effectively.
 
 ## Contributions
 
